@@ -46,7 +46,7 @@ What do I value?
 
 **Communication:** When working in a cross functional team environment, good communication is absolutely required for success. Each team member has individual specialities that others do not, and the only way to expose all of that expertise and combine it into a well functioning product is by solid, clear communication. I strongly prefer erring on the side of over-communication to ensure that everyone is on the same page.
 
-**Solutions:** Please don’t get stuck in the weeds on individual tasks, take the time to understand how what you’re working on fits into the bigger picture, and provide suggestions on how what you’re working on can be accomplished with less resources, faster, and deliver more value to customers.
+**PNL Oriented Solutions:** Please don’t get stuck in the weeds on individual tasks, take the time to understand how what you’re working on fits into the bigger picture and drives towards increasing PNL, and provide suggestions on how what you’re working on can be accomplished with less resources, faster, and deliver more value to the business.
 
 **Metrics/Visibility:** "What gets measured, gets improved." This goes for engineering systems (via logs, dashboards, etc.) as well as individual contributions, i.e. please update the team on what you've accomplished as well as what challenges you encountered along the way, ideally Trello comments on the tickets you work on so the context is easy to find.
 
@@ -56,7 +56,7 @@ What do I value?
 
 ## Work Style
 
-I work on weekends, which is a personal choice. I do not expect you to work on the weekend. I may send you email or Slack messages on the weekend but unless I explicitly mention that the situation is URGENT, there is no need to respond until Monday.
+I sometimes work on weekends, which is a personal choice. I do not expect you to work on the weekend. I may send you email or Slack messages on the weekend but unless I explicitly mention that the situation is URGENT, there is no need to respond until Monday.
 
 If I’m traveling or out of office, I will provide notice via the #officehk channel on Slack.
 
@@ -116,7 +116,7 @@ I have a few pet peeves:
 
 **Asking if you can ask a question:** just ask. Don’t ever drop a message in Slack asking if I have a few minutes; if you’re asking, I assume it’s important and I will make a few minutes for you. Leave a note about what you want to talk about in Slack and I’ll get back to you ASAP.
 
-**Not following process:** I am pretty anal about having things systemized and followed. This may occasionally be overboard from what we actually need as a team. Please push back when you think that’s the case, but also be aware that my desire for structure is a result of needing to manage a lot of complex systems simultaneously. Mainly this manifests in not updating Jira tickets or Github PRs.
+**Not following process:** I am pretty anal about having things systemized and followed. This may occasionally be overboard from what we actually need as a team. Please push back when you think that’s the case, but also be aware that my desire for structure is a result of needing to manage a lot of complex systems simultaneously. Mainly this manifests in not updating Trello tickets or Github PRs.
 
 
 
