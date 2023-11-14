@@ -2,7 +2,7 @@ _This is a living document and will be updated frequently as things change._
 
 # Han Chang: Manager README
 
-Welcome to Parallel Capital!
+Welcome to Adaptive Frontier!
 
 This document is to help you better understand me and how I operate and also to help me articulate my workflow and values. This also helps you to keep me accountable!
 
@@ -10,21 +10,21 @@ Of course, this does not replace 1-on-1s or in-person interaction, it’s merely
 
 #### Disclaimer
 
-This document applies only to me, not anyone else at Parallel Capital.
+This document applies only to me, not anyone else at Adaptive Frontier.
 
 ## My Role
 
-I’m the technical cofounder and responsible for Engineering at Parallel Capital. That means I manage the Data and Trading Infrastructure.
+I’m the technical cofounder at Adaptive Frontier. I manage the Trading and Data Infrastructure alongside Business Development.
 
-But what that really means is that my job is to attract and retain world class talent by deeply taking care of who we have. (That’s you!)
+But what that really means is that my job is to attract and retain world class talent by deeply taking care of who we have and who we want to hire. (That’s you!)
 
-This means that whenever I do something that decreases the changes of retaining you, please let me know as soon as possible!
+This means that whenever I do something that decreases the changes of recruiting/retaining you, please let me know as soon as possible!
 
 My other role is to provide clear context around what you’re working on, why it’s important to the business, and how it fits in with the bigger company strategy so you can make the best decisions possible for the product and the company.
 
 “Every person in your company is a vector. Your progress is determined by the sum of all vectors.” — Elon Musk
 
-You work for Parallel Capital, not me nor your direct manager. Optimize for Parallel Capital. I am here to serve you and make sure you have what you need to succeed.
+You work for Adaptive Frontier, not me nor your direct manager. Optimize for Adaptive Frontier. I am here to serve you and make sure you have what you need to succeed.
 
 I will make mistakes, and I want to improve just like you. Hold me accountable, don’t be afraid to say something when you think I’m not heading down the right track.
 
@@ -37,8 +37,8 @@ My secondary objective is to be able to disappear for a month and not have that 
 This implies that:
 
 * You are empowered to determine what you need to do, how to do it, and then actually go and get it done.
-* You have enough context to understand your priority for the next month.
-* You have strong relationships with others in the company to give and get the information and resources you need.
+* You have enough context to understand your priorities for the next month.
+* You have strong relationships with others in the company to give and obtain the information and resources you need.
 
 ## Values
 
@@ -76,7 +76,7 @@ That said, I may respond that I trust you to use your best judgement, in which c
 
 ## Cadence
 
-I aim to hold a 1:1 with each direct report at least once a week. Generally I prefer to set aside a scheduled time for each person but occasionally will need some flexibility.
+I aim to hold a 1:1 with each direct report at least once every other week. Generally I prefer to set aside a scheduled time for each person but occasionally will need some flexibility.
 
 1:1s are for YOU, not me. It is not an update/status meeting (unless you want it to be), it’s a sacred dedicated time set aside for you to chat about whatever you think is important to discuss.
 
@@ -100,19 +100,17 @@ If you’re in orange or red, all is not lost - everything is fine as long as yo
 
 These are personality quirks I have that you should be aware of. Some are "positive", some are "negative" (and I’m actively trying to improve upon these), but they’re me, so it’s easier if you know about them ahead of time.
 
-I get passionate often when I talk. This occasionally might sound like I'm losing my temper. Call me out on it if you feel like I crossed the line. I may also swear (a lot). It doesn’t mean anything except that I’m excited, please don’t take offense.
+I get passionate often when I talk. This occasionally might sound like I'm losing my temper. Call me out on it if you feel like I crossed the line.
 
-I love constructive criticism, particularly receiving it. I may be slow to give criticism to give you the benefit of the doubt, and when I do, that criticism may come across a bit too bluntly sometimes, so please call me out on it if you feel like I crossed the line.
-
-I may act passive aggressively sometimes - this is always subconscious and I’m actively trying to stop this habit. Please always call me out on this.
+I love constructive criticism, particularly receiving it. I am very slow to give criticism and virtually always err on giving you the benefit of the doubt until the reservoir of goodwill gets eroded. I am working on improving to give feedback earlier, so if you're not getting enough feedback from me, please let me know.
 
 I believe in "no broken windows" (https://en.wikipedia.org/wiki/Broken_windows_theory). That means I expect attention to detail (i.e. clean code adhering to style guide, in-depth documentation, etc.). The attention to detail in the little things will spill over into the big things.
 
 I have a few pet peeves:
 
-**Not providing context:** it’s very important for me to always explain why we’re doing something. By explaining why, we allow for lateral thinking by questioning whether the approach is correct. I expect team members to also give the same context when communicating. If you ask a question non-sequitur, it’s much harder to answer than if you first mention what you’re working on / stuck on and then ask your question within that context. In particular, this also extends into screenshots - please err towards capturing and sharing the entire desktop or at least browser / application window, instead of just grabbing a small slice.
+**Not providing context:** it’s very important for me to always explain why we’re doing something. By explaining why, we allow for lateral thinking by questioning whether the approach is correct and coming up with novel new approaches to solve the underlying problem. I expect team members to also give the same context when communicating. If you ask a question non-sequitur, it’s much harder to answer than if you first mention what you’re working on / stuck on and then ask your question within that context. In particular, this also extends into screenshots - please err towards capturing and sharing the entire desktop or at least browser / application window, instead of just grabbing a small slice.
 
-**Not looking for answers yourself first:** please perform a preliminary Google search instead of bothering someone else for the answer if you don’t know how to do something. This goes double for external tools with pre-existing documentation. Of course, please use your best judgement and balance this with the urgency of the task and the availability of the person you plan to ask.
+**Not looking for answers yourself first:** please perform a preliminary Google search or ChatGPT query instead of bothering someone else for the answer if you don’t know how to do something. This goes double for external tools with pre-existing documentation. Of course, please use your best judgement and balance this with the urgency of the task and the availability of the person you plan to ask.
 
 **Asking if you can ask a question:** just ask. Don’t ever drop a message in Slack asking if I have a few minutes; if you’re asking, I assume it’s important and I will make a few minutes for you. Leave a note about what you want to talk about in Slack and I’ll get back to you ASAP.
 
