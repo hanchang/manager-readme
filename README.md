@@ -84,18 +84,6 @@ I will always stick around for the full length of the meeting. Even if you have 
 
 Do not save urgent things for this meeting - if something is urgent, bring it up ASAP!
 
-## Performance
-
-I use a Green / Orange / Red performance assessment model. You may safely assume you are Green unless explicitly stated otherwise.
-
-**Green:** There might be things to improve (or not) but if you keep doing what you’re doing, we’re all good!
-
-**Orange:** There are one or more behaviors that are not long term sustainable and need to be changed to stay on the team; you will be explicitly informed of this situation.
-
-**Red:** There is a significant problem with a hard deadline to fix; you will be explicitly informed of this situation.
-
-If you’re in orange or red, all is not lost - everything is fine as long as you adapt and change. When you do so, you prove that you’re willing and able to accept and implement feedback to grow which is extremely valuable!
-
 ## Quirks
 
 These are personality quirks I have that you should be aware of. Some are "positive", some are "negative" (and I’m actively trying to improve upon these), but they’re me, so it’s easier if you know about them ahead of time.
