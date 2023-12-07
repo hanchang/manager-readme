@@ -102,7 +102,7 @@ I have a few pet peeves:
 
 **Asking if you can ask a question:** just ask. Don’t ever drop a message in Slack asking if I have a few minutes; if you’re asking, I assume it’s important and I will make a few minutes for you. Leave a note about what you want to talk about in Slack and I’ll get back to you ASAP.
 
-**Not following process:** I am pretty anal about having things systemized and followed. This may occasionally be overboard from what we actually need as a team. Please push back when you think that’s the case, but also be aware that my desire for structure is a result of needing to manage a lot of complex systems simultaneously. Mainly this manifests in not updating Trello tickets or Github PRs.
+**Not following process:** I aim to have things systemized and followed. This may occasionally be either overboard or inadequate from what we actually need as a team. Please push back when you think either case is true. Mainly this manifests in not updating Trello tickets or Github PRs.
 
 
 
