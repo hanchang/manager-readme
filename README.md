@@ -32,12 +32,12 @@ I will make mistakes, and I want to improve just like you. Hold me accountable, 
 
 My primary objective is to foster a work environment where you feel happy and fulfilled.
 
-My secondary objective is to be able to disappear for a month and not have that absence impact the company.
+My secondary objective is to be able to disappear for a week and not have that absence impact the company.
 
 This implies that:
 
 * You are empowered to determine what you need to do, how to do it, and then actually go and get it done.
-* You have enough context to understand your priorities for the next month.
+* You have enough context to understand your priorities for the next week.
 * You have strong relationships with others in the company to give and obtain the information and resources you need.
 
 ## Values
