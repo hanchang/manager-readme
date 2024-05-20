@@ -94,6 +94,8 @@ I love constructive criticism, particularly receiving it. I am very slow to give
 
 I believe in "no broken windows" (https://en.wikipedia.org/wiki/Broken_windows_theory). That means I expect attention to detail (i.e. clean code adhering to style guide, in-depth documentation, etc.). The attention to detail in the little things will spill over into the big things.
 
+I do not have a good memory and try to document things personally and in the company wiki as much as possible, otherwise I will forget. Please do not be offended if I forget something and help me document things so we don't need to rely on our memory.
+
 I have a few pet peeves:
 
 **Not providing context:** it’s very important for me to always explain why we’re doing something. By explaining why, we allow for lateral thinking by questioning whether the approach is correct and coming up with novel new approaches to solve the underlying problem. I expect team members to also give the same context when communicating. If you ask a question non-sequitur, it’s much harder to answer than if you first mention what you’re working on / stuck on and then ask your question within that context. In particular, this also extends into screenshots - please err towards capturing and sharing the entire desktop or at least browser / application window, instead of just grabbing a small slice.
@@ -102,8 +104,6 @@ I have a few pet peeves:
 
 **Asking if you can ask a question:** just ask. Don’t ever drop a message in Slack asking if I have a few minutes; if you’re asking, I assume it’s important and I will make a few minutes for you. Leave a note about what you want to talk about in Slack and I’ll get back to you ASAP.
 
-**Not following process:** I aim to have things systemized and followed. This may occasionally be either overboard or inadequate from what we actually need as a team. Please push back when you think either case is true. Mainly this manifests in not updating Trello tickets or Github PRs.
-
-
+**Not following process:** I aim to have things systemized and followed. We use a very lightweight process (Kanban) to give us the agility to quickly adapt to the fast pace of change in the crypto markets, so the overhead of following process should be relatively minor. Mainly this manifests in not updating Trello tickets / Github PRs / documentation. Documentation just needs to be enough to provide a brief overview of the problem, proposed solutions, and the rationale for the selected solution; oftentimes a link to a relevant Slack discussion or a comment in the codebase will suffice, the important part is just being able to reference information in order to not need to rely on memory alone or spend a bunch of time and effort in searching for the old context.
 
 
