@@ -18,7 +18,7 @@ I’m the technical cofounder at Adaptive Frontier. I manage the Trading and Dat
 
 But what that really means is that my job is to attract and retain world class talent by deeply taking care of who we have and who we want to hire. (That’s you!)
 
-This means that whenever I do something that decreases the changes of recruiting/retaining you, please let me know as soon as possible!
+This means that whenever I do something that decreases the chances of recruiting/retaining you, please let me know as soon as possible!
 
 My other role is to provide clear context around what you’re working on, why it’s important to the business, and how it fits in with the bigger company strategy so you can make the best decisions possible for the product and the company.
 
